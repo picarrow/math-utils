@@ -1,3 +1,4 @@
+scoreboard objectives add picarrow.math.acos dummy
 scoreboard objectives add picarrow.math.asin dummy
 scoreboard objectives add picarrow.math.atan2 dummy
 scoreboard objectives add picarrow.math.cos dummy
