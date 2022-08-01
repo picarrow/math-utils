@@ -1,7 +1,5 @@
-## AUTHOR: Picarrow
-
 ## OBJECTIVE: picarrow.math.atan2
-## INPUTS: $y, $x
+## INPUTS: $y, $x (2 decimal precision)
 ## OUTPUTS: $out (2 decimal precision)
 
 summon minecraft:armor_stand ~ ~ ~ {Tags:["picarrow.math.atan2_dummy"],Marker:1b}

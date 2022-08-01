@@ -1,6 +1,3 @@
-## AUTHOR: CloudWolf
-## ADAPTED BY: Picarrow
-
 # storing last estimate in order to check for convergence
 scoreboard players operation #last_estimate picarrow.math.sqrt = #estimate picarrow.math.sqrt
 

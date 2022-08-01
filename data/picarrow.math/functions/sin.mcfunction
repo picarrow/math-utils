@@ -1,5 +1,3 @@
-## AUTHOR: Picarrow
-
 ## OBJECTIVE: picarrow.math.sin
 ## INPUTS: $x (2 decimal precision)
 ## OUTPUTS: $out (2 decimal precision)
